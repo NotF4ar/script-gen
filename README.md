@@ -1,0 +1,2 @@
+# script-gen
+hi gain
